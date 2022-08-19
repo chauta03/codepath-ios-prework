@@ -6,7 +6,7 @@ This app is a simple Xcode and Swift application. User can see custom text and b
 
 ### App Walk-though
 
-<img src="https://recordit.co/cEnWeq5UBW" width=200><br>
+<img src="http://g.recordit.co/cEnWeq5UBW.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
